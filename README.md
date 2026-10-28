@@ -1,16 +1,35 @@
-## Hi there 👋
+Hi, I'm Diksha Asija
 
-<!--
-**dikshaasija14-lgtm/dikshaasija14-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Introduction
 
-Here are some ideas to get you started:
+I am a PGDM student at the Fortune Institute of International Business (FIIB), with an interest in Python programming, data analysis, and emerging technologies. I am focused on developing my technical skills and applying analytical thinking to solve problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Education
+
+Post Graduate Diploma in Management (PGDM) — Fortune Institute of International Business (FIIB) 
+
+Undergraduate Degree(B.COM) — Delhi University 
+
+Skills
+
+Programming: Python (fundamentals)
+
+Data & Productivity Tools: Microsoft Excel
+
+Core Competencies: Analytical Thinking, Problem-Solving, and Continuous Learning
+
+Areas of Interest
+
+Python Development
+
+Data Analytics and Visualization
+
+Artificial Intelligence and Emerging Technologies
+
+Business Analytics and Technology-Driven Solutions
+
+Current Focus
+
+Strengthening my Python programming fundamentals, exploring data-driven problem-solving, and building practical projects to expand my technical expertise.
+
+Reach out: www.linkedin.com/in/diksha-asija-55369b421
